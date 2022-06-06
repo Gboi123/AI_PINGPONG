@@ -14,7 +14,7 @@ body
 }
 .heading button{
     float: right;
-    border: 1px solid white;
+    border: 1px solid wh;
 }
 .footer{
     background-color: grey;
@@ -27,4 +27,9 @@ body
 }
 .modal-body{
     text-align: left;
+}
+canvas{
+    border-radius: 5px;
+    box-shadow: 3px 3px 3px white;
+    border: 2px solid white;
 }
